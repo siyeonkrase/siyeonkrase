@@ -10,8 +10,8 @@
   </a>
 </p>
 
-👋 Hi there! I’m a frontend developer working across web and interactive interfaces. 🚀  
-I mainly build with React and TypeScript, and occasionally explore other stacks when it fits the problem.
+👋 Hi there! I’m a frontend developer working across web and interactive interfaces. 🚀
+I mainly build with React and TypeScript, and focus on interaction, state, and UI clarity.
 
 I’m interested in UI logic, interaction, and creating clean, intuitive user experiences. ✨  
 I enjoy building things that are simple, thoughtful, and pleasant to use.
