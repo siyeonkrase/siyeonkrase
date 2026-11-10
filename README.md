@@ -1,4 +1,3 @@
-```html
 <p align="left">
   <a href="https://www.linkedin.com/in/siyeonkrase/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white">
@@ -62,4 +61,3 @@ I enjoy solving practical problems, improving user experiences, and turning comp
 - **AI-Powered Applications** — Developing conversational AI interfaces and internal AI management tools.
 - **Interactive Experiences** — Creating intuitive UI interactions, reusable components, and state-driven interfaces.
 - **Testing & Delivery** — Writing automated tests, reviewing code, and shipping production-ready features.
-```
